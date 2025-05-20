@@ -22,7 +22,7 @@ function About() {
               <h3>About Company</h3>
               <h2>You start the engine and your adventure begins</h2>
               <p>
-              At Rudra Car Rental Services, we believe that renting a car should
+              At EASY RIDE Car Rental Services, we believe that renting a car should
               be an effortless and enjoyable experience. That's why we offer a 
               wide selection of high-quality vehicles to choose from, along with
               competitive pricing and exceptional customer service. Plus, we're committed to sustainability, with
