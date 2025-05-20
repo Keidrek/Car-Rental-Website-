@@ -42,7 +42,7 @@
 //               <h2>Book a car by getting in touch with us</h2>
 //               <span>
 //                 <i className="fa-solid fa-phone"></i>
-//                 <h3>(123) 456-7869</h3>
+//                 <h3>+(233)536534266</h3>
 //               </span>
 //             </div>
 //           </div>
