@@ -1,5 +1,5 @@
 [You can check the live demo of the Website on the given below link :-]
-(https://graceful-moxie-1ebb53.netlify.app/)
+(https://easyride-carrental-service.netlify.app/)
 
 
 Here, you can take a ,look the website and its features :-
