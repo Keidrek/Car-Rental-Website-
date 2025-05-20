@@ -16,15 +16,14 @@ function Contact() {
                 years of experience.
               </p>
               <a href="/">
-                <i className="fa-solid fa-phone"></i>&nbsp; (123) 456-7869
+                <i className="fa-solid fa-phone"></i>&nbsp; +(232)536534266
               </a>
               <a href="/">
                 <i className="fa-solid fa-envelope"></i>&nbsp;
-                rs7171507@gmail.com
+                 easyride.carrental@gmail.com
               </a>
               <a href="/">
-                <i className="fa-solid fa-location-dot"></i>&nbsp; Jalandhar,
-                Punjab
+                <i className="fa-solid fa-location-dot"></i>&nbsp; Accra,Ghana
               </a>
             </div>
             <div className="contact-div__form">
