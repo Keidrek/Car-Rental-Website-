@@ -13,18 +13,18 @@ function Footer() {
                 have the perfect car to meet your needs.
               </li>
               <li>
-                <a href="tel:123456789">
-                  <i className="fa-solid fa-phone"></i> &nbsp; (123) -456-789
+                <a href="tel:+(233)536534266">
+                  <i className="fa-solid fa-phone"></i> &nbsp; +(233)536534266
                 </a>
               </li>
 
               <li>
                 <a
                   href="mailto: 
-                carrental@gmail.com"
+                easyride.carrental@gmail.com"
                 >
                   <i className="fa-solid fa-envelope"></i>
-                  &nbsp; rs7171507@gmail.com
+                  &nbsp; easyride.carrental@gmail.com
                 </a>
               </li>
 
@@ -35,7 +35,7 @@ function Footer() {
                   rel="noreferrer"
                   href="https://jephunneh.com/"
                 >
-                  Design by Rudra Pratap Singh
+                  Design by ANSAH NYANTEKYI DERICK
                 </a>
               </li>
             </ul>
