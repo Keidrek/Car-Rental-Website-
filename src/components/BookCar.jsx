@@ -199,11 +199,11 @@ function BookCar() {
                   </label>
                   <select value={pickUp} onChange={handlePick}>
                     <option>Select pick up location</option>
-                    <option>New Dehli</option>
-                    <option>Mumbai</option>
-                    <option>Jalandhar</option>
-                    <option>Amritsar</option>
-                    <option>Varanasi</option>
+                    <option>East legon</option>
+                    <option>Dzorwulu</option>
+                    <option>Airport Hills</option>
+                    <option>East Legon Hills</option>
+                    <option>North Ridge</option>
                   </select>
                 </div>
 
@@ -214,11 +214,11 @@ function BookCar() {
                   </label>
                   <select value={dropOff} onChange={handleDrop}>
                     <option>Select drop off location</option>
-                    <option>Varanasi</option>
-                    <option>New Delhi</option>
-                    <option>Amritsar</option>
-                    <option>Jalandhar</option>
-                    <option>Mumbai</option>
+                    <option>North Ridge</option>
+                    <option>East Legon Hills</option>
+                    <option>East Legon</option>
+                    <option>Airport Hills</option>
+                    <option>Dzorwulu</option>
                   </select>
                 </div>
 
